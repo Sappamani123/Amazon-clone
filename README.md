@@ -21,3 +21,7 @@ A responsive frontend clone of the Amazon homepage built using **HTML5** and **C
 
 ## Purpose
 This project was created for educational purposes to improve frontend development skills by recreating a popular e-commerce website interface. It is not affiliated with or endorsed by Amazon.
+
+
+https://github.com/user-attachments/assets/23cb9002-0a72-44cf-800f-99b4f03a578d
+
