@@ -3,6 +3,8 @@
 
 A responsive frontend clone of the Amazon homepage built using **HTML5** and **CSS3**. This project replicates the look and feel of Amazon's landing page while focusing on responsive design, clean code, and modern web development practices.
 
+Live URL : https://sappamani123.github.io/Amazon-clone/
+
 ## Features
 - Responsive navigation bar
 - Amazon-style search bar
